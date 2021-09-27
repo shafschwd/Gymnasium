@@ -1,2 +1,2 @@
 # Gymnasium
-repos for gymnasium psd
+repo for gymnasium psd
