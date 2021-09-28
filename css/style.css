@@ -799,7 +799,7 @@ li {
             counter css end
 ==========================================*/
 /* ======================================
-            class css end
+            class css start
 ==========================================*/
 
 #class {
@@ -820,6 +820,10 @@ li {
 	font-weight: 400;
 	width: 100%;
 	height: 50px;
+}
+
+.class_menu li button:hover{
+	color: #222222;
 }
 
 .class_menu .nav-link.active,
@@ -889,7 +893,7 @@ li {
             class css end
 ==========================================*/
 /* ======================================
-            brand css end
+            brand css start
 ==========================================*/
 
 #brand {
@@ -984,7 +988,7 @@ li {
 	font-weight: 400;
 	font-family: var(--oswald);
 	text-transform: uppercase;
-	margin-bottom: 30px;
+	padding-bottom: 30px;
 }
 
 .footer_mid ul li {
@@ -1018,21 +1022,18 @@ li {
 }
 
 .flickr ul li {
-	margin: 0 9px 9px 0;
+	width: 20%;
+	margin: 0 10px 10px 0;
 }
 
-.flickr li:nth-child(4),
-.flickr li:nth-child(8),
-.flickr li:nth-child(12) {
-	margin: 0 0 9px 0;
+.flickr ul li:nth-child(4),
+.flickr ul li:nth-child(8),
+.flickr ul li:nth-child(12){
+	margin: 0 0 10px 0;
 }
 
-.flickr li:nth-child(9),
-.flickr li:nth-child(10),
-.flickr li:nth-child(11),
-.flickr li:nth-child(12) {
-	margin-bottom: 0;
-}
+
+
 
 .contact p {
 	font-size: 13px;
