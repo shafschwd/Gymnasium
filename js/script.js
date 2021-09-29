@@ -93,10 +93,10 @@ $(function () {
 		centerPadding: 0,
 		responsive: [
 			{
-				breakpoint: 1024,
+				breakpoint: 1199.98,
 				settings: {
-					slidesToShow: 3,
-					slidesToScroll: 3,
+					slidesToShow: 5,
+					slidesToScroll: 1,
 					infinite: true,
 					dots: false,
 				},

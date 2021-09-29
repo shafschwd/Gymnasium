@@ -4,6 +4,22 @@
 @media (min-width: 1200px) and (max-width: 1399.98px) {
 }
 @media (min-width: 992px) and (max-width: 1199.98px) {
+
+	/* about css start */
+
+	.about_video{
+		margin: 60px 0;
+	}
+
+	/* about css end */
+	/* classes css start */
+
+	.class_body ul li {
+		width: 19.58%;
+	}
+
+	/* classes css end */
+
 }
 
 /*ipad */
