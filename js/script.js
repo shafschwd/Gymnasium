@@ -33,7 +33,7 @@ $(function () {
 				},
 			},
 			{
-				breakpoint: 600,
+				breakpoint: 767.98,
 				settings: {
 					slidesToShow: 2,
 					slidesToScroll: 2,
@@ -68,7 +68,7 @@ $(function () {
 				},
 			},
 			{
-				breakpoint: 600,
+				breakpoint: 767.98,
 				settings: {
 					slidesToShow: 2,
 					slidesToScroll: 2,
@@ -96,7 +96,7 @@ $(function () {
 		slidesToScroll: 1,
 		autoplay: false,
 		autoplaySpeed: 2000,
-		arrows: true,
+		arrows: false,
 		nextArrow: '<i class="fas fa-chevron-right nextarrow"></i>',
 		prevArrow: '<i class="fas fa-chevron-left prevarrow"></i>',
 		dots: false,
@@ -113,10 +113,10 @@ $(function () {
 				},
 			},
 			{
-				breakpoint: 600,
+				breakpoint: 767.98,
 				settings: {
-					slidesToShow: 2,
-					slidesToScroll: 2,
+					slidesToShow: 3,
+					slidesToScroll: 1,
 				},
 			},
 			{
@@ -124,7 +124,6 @@ $(function () {
 				settings: {
 					slidesToShow: 2,
 					slidesToScroll: 1,
-					arrows: false,
 				},
 			},
 		],
