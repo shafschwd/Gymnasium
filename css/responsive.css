@@ -5,8 +5,99 @@
 }
 @media (min-width: 992px) and (max-width: 1199.98px) {
 }
+
+/*ipad */
 @media (min-width: 768px) and (max-width: 991.98px) {
+	/* menu css start */
+
+	.main_menu .navbar-brand {
+		width: 200px;
+	}
+
+	.nav-link:focus, .nav-link:hover {
+		color: #ffffff;
+	}
+
+	.banner_text p {
+		font-size: 14px;
+	}
+
+	.banner_text h2::before {
+		width: 175px;
+	}
+
+	.banner_text h2::after {
+		width: 213px;
+	}
+
+	.banner_text p::before {
+		width: 76px;
+	}
+
+	.banner_text p::after {
+		width: 105px;
+	}
+
+	/* menu css end */
+	/* team css start */
+
+	#team{
+		padding: 68px 0 5px;
+	}
+
+	/* team css end */
+	/* membership css start */
+
+	.member_inner h3 {
+		padding: 15px 0;
+		font-size: 40px;
+	}
+
+	.member_inner h3 span{
+		font-size: 24px;
+	}
+
+	.member_inner .offer_txt {
+		padding: 15px 0;
+		background: #f1f1f1;
+	}
+
+	.member_inner ul li {
+		padding: 6px 0;
+		font-size: 14px;
+	}
+
+	.member_inner a{
+		font-size: 14px;
+	}
+
+	/* membership css end */
+	/* classes css start */
+
+	.class_body ul li {
+		width: 19.42%;
+		padding: 30px 0;
+	}
+
+	.class_body ul li h2 {
+		font-size: 14px;
+	}
+
+	.class_body ul li i {
+		font-size: 40px;
+	}
+
+	/* classes css end */
+	/* menu css start */
+	/* menu css end */
+	/* menu css start */
+	/* menu css end */
+	/* menu css start */
+	/* menu css end */
+	/* menu css start */
+	/* menu css end */
 }
+
 /* low res tablet */
 @media (min-width: 576px) and (max-width: 767.98px) {
 	/* menu css start */
