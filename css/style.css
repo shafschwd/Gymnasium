@@ -211,7 +211,7 @@ li {
 	-moz-transform: translateY(-50%);
 	-ms-transform: translateY(-50%);
 	-o-transform: translateY(-50%);
-	width: 114px;
+	width: 119px;
 	height: 3px;
 	background: var(--hover);
 	clip-path: polygon(0 0, 99% 0, 100% 100%, 5% 100%);
@@ -227,7 +227,7 @@ li {
 	-moz-transform: translateY(-50%);
 	-ms-transform: translateY(-50%);
 	-o-transform: translateY(-50%);
-	width: 169px;
+	width: 174px;
 	height: 3px;
 	background: var(--hover);
 	clip-path: polygon(0 0, 99% 0, 95% 100%, 0 100%);
@@ -277,7 +277,7 @@ li {
 	content: "";
 	right: 0;
 	bottom: -63px;
-	width: 32px;
+	width: 37px;
 	height: 3px;
 	background: var(--hover);
 }
@@ -287,7 +287,7 @@ li {
 	content: "";
 	left: 0;
 	bottom: -63px;
-	width: 60px;
+	width: 65px;
 	height: 3px;
 	background: var(--hover);
 }
